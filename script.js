@@ -21,3 +21,7 @@ let snake=[
     {x:unitSize, y:0},
     {x:0, y:0}
 ];
+
+//Addded later 
+let gameScore=0;
+let finalScore=gameScore+5;

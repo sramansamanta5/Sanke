@@ -25,3 +25,8 @@ let snake=[
 //Addded later 
 let gameScore=0;
 let finalScore=gameScore+5;
+
+
+//Addded later 
+let gameScore1=0;
+let finalScorex=gameScore+10;

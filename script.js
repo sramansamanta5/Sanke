@@ -35,3 +35,7 @@ let finalScorex=gameScore+10;
 //Addded later 
 let gameScore2=0;
 let finalScore2=gameScore+5;
+
+//Addded later 
+let gameScore3=10;
+let finalScore3=gameScore+15;
